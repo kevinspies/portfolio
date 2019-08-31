@@ -20,7 +20,14 @@ body{
 }
 #firstHalf{
     margin-top: 20px;
-    margin-bottom: 20px;
+}
+#skillsBox{
+    background-color: lightsteelblue;
+    padding: 30px;
+}
+#hobbiesBox{
+    background-color: rgb(226, 167, 162);
+    padding: 30px;
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
