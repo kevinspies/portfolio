@@ -18,9 +18,14 @@ body{
 #trainPic{
     padding-top: 45px;
 }
-
+#firstHalf{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {  }
+@media (min-width: 576px) { 
+    
+ }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {  }
