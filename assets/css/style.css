@@ -20,18 +20,27 @@ body{
 }
 #firstHalf{
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 #skillsBox{
     background-color: lightsteelblue;
     padding: 30px;
+    margin-left: 10px;
 }
 #hobbiesBox{
     background-color: rgb(226, 167, 162);
     padding: 30px;
 }
+#cardBox{
+    background-color: khaki;
+    padding: 10px;
+}
+.navbar{
+    margin-bottom: 15px;
+}
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { 
-    
+@media (min-width: 376px) { 
+
  }
 
 /* Medium devices (tablets, 768px and up) */
