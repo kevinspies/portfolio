@@ -15,6 +15,9 @@ body{
 #reachOut{
     padding: 15px;
 }
+#trainPic{
+    padding-top: 45px;
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {  }
