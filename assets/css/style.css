@@ -2,10 +2,6 @@ body{
     font-family: "Roboto Condensed", sans-serif;
 }
 
-#profilePic{
-    transform: rotate(180deg);
-}
-
 .badge{
     padding:20px;
 }
@@ -40,7 +36,6 @@ body{
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 376px) { 
-
  }
 
 /* Medium devices (tablets, 768px and up) */
