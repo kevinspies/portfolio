@@ -2,6 +2,10 @@ body{
     font-family: "Roboto Condensed", sans-serif;
 }
 
+img {
+    image-orientation: from-image;
+}
+
 .badge{
     padding:20px;
 }
